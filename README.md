@@ -1,1 +1,1 @@
-# registration-form
+открыть папку и запустить index.html
